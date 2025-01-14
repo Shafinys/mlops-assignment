@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/acb2be9f65874bd2a2ea1ab851544b4a/artifacts
+end_time: 1736834663000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acb2be9f65874bd2a2ea1ab851544b4a
+run_name: kindly-steed-458
+run_uuid: acb2be9f65874bd2a2ea1ab851544b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736834661157
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/4b84cbd3cf674340893c3a052683f027/artifacts
+end_time: 1736834670900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b84cbd3cf674340893c3a052683f027
+run_name: debonair-newt-315
+run_uuid: 4b84cbd3cf674340893c3a052683f027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736834669036
+status: 3
+tags: []
+user_id: shafins

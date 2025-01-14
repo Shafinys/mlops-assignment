@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/a29d9af18cfd44cba7615f3415a29bbc/artifacts
+end_time: 1736834667099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a29d9af18cfd44cba7615f3415a29bbc
+run_name: redolent-stoat-875
+run_uuid: a29d9af18cfd44cba7615f3415a29bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736834664899
+status: 3
+tags: []
+user_id: shafins

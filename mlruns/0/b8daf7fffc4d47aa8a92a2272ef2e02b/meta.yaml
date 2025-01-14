@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/b8daf7fffc4d47aa8a92a2272ef2e02b/artifacts
+end_time: 1736834653234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8daf7fffc4d47aa8a92a2272ef2e02b
+run_name: serious-seal-692
+run_uuid: b8daf7fffc4d47aa8a92a2272ef2e02b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736834651258
+status: 3
+tags: []
+user_id: shafins
