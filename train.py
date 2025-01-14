@@ -9,6 +9,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import mlflow
 import mlflow.sklearn
 from mlflow.models import infer_signature
+import optuna
 
 # Load the Iris dataset
 iris = datasets.load_iris()
@@ -19,7 +20,7 @@ y = iris.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 def train_random_forest(params):
-    with mlflow.start_run(run_name="Random Forest"):
+    with mlflow.start_run(nested=True):
         # Log parameters
         mlflow.log_params(params)
         
@@ -44,12 +45,6 @@ def train_random_forest(params):
             signature=signature,
             input_example=X_train[:5]  # Use the first 5 samples as an example
         )
-        
-        # Print results
-        print("Random Forest Classifier:")
-        print(f"Accuracy: {rf_accuracy:.2f}")
-        print("\nClassification Report:")
-        print(classification_report(y_test, rf_pred, target_names=iris.target_names))
         
         return rf_accuracy
 
@@ -88,12 +83,30 @@ def train_logistic_regression(params):
         
         return lr_accuracy
 
-if __name__ == "__main__":
-    # Random Forest parameters
-    rf_params = {
-        "n_estimators": 100,
+def objective(trial):
+    params = {
+        "n_estimators": trial.suggest_int("n_estimators", 10, 200),
+        "max_depth": trial.suggest_int("max_depth", 2, 20),
         "random_state": 42
     }
+    return train_random_forest(params)
+
+if __name__ == "__main__":
+    # Optuna study for Random Forest
+    with mlflow.start_run(run_name="Random Forest Optimization"):
+        study = optuna.create_study(direction="maximize")
+        study.optimize(objective, n_trials=20)
+        
+        print("Best hyperparameters:", study.best_params)
+        
+        # Train final Random Forest model with best params
+        best_rf_params = study.best_params
+        best_rf_params["random_state"] = 42
+        rf_accuracy = train_random_forest(best_rf_params)
+        
+        # Print Random Forest results
+        print("\nRandom Forest Classifier (Best Parameters):")
+        print(f"Accuracy: {rf_accuracy:.2f}")
     
     # Logistic Regression parameters
     lr_params = {
@@ -101,8 +114,7 @@ if __name__ == "__main__":
         "max_iter": 200
     }
     
-    # Train models and get accuracies
-    rf_accuracy = train_random_forest(rf_params)
+    # Train Logistic Regression model
     lr_accuracy = train_logistic_regression(lr_params)
     
     # Compare models
