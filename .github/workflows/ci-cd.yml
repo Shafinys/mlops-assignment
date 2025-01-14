@@ -1,0 +1,37 @@
+name: CI-CD Pipeline
+
+on: [push, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Linting
+        run: |
+          # Example lint command, e.g., flake8 or pylint
+          pip install flake8
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+
+      - name: Run Tests
+        run: |
+          pytest tests/ --maxfail=1 --disable-warnings
+
+  deploy:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy Step
+        run: |
+          echo "Deploying model to staging environment..."
+          # Example placeholder for actual deployment scripts
