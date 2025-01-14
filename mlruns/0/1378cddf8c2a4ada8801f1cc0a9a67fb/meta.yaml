@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/1378cddf8c2a4ada8801f1cc0a9a67fb/artifacts
+end_time: 1736828454704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1378cddf8c2a4ada8801f1cc0a9a67fb
+run_name: Random Forest
+run_uuid: 1378cddf8c2a4ada8801f1cc0a9a67fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736828452196
+status: 3
+tags: []
+user_id: shafins
