@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/639c7518bd8f4465b61c38815d6430f9/artifacts
+end_time: 1736836767815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 639c7518bd8f4465b61c38815d6430f9
+run_name: luminous-loon-806
+run_uuid: 639c7518bd8f4465b61c38815d6430f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836765836
+status: 3
+tags: []
+user_id: shafins

@@ -1,9 +1,5 @@
 outs:
-<<<<<<< HEAD
 - md5: d3bac4058f0b07abfd24f33dccd2269e
   size: 5353
-- md5: bc5d83584e6940a3b6efa1887a4435d6
-  size: 5352
->>>>>>> parent of 18654e4 (Add DVC remote)
   hash: md5
   path: iris.csv

@@ -111,7 +111,7 @@ if __name__ == "__main__":
         rf_model, rf_accuracy = train_random_forest(study_rf.best_params)
         
         # Save the best Random Forest model
-        joblib.dump(rf_model, 'best_rf_model.pkl')
+        joblib.dump(rf_model, 'best_rf_model.joblib')
         
         print("\nRandom Forest Classifier (Best Parameters):")
         print(f"Accuracy: {rf_accuracy:.2f}")
@@ -127,7 +127,7 @@ if __name__ == "__main__":
         lr_model, lr_accuracy = train_logistic_regression(study_lr.best_params)
         
         # Save the best Logistic Regression model
-        joblib.dump(lr_model, 'best_lr_model.pkl')
+        joblib.dump(lr_model, 'best_lr_model.joblib')
         
         print("\nLogistic Regression (Best Parameters):")
         print(f"Accuracy: {lr_accuracy:.2f}")
@@ -145,5 +145,5 @@ if __name__ == "__main__":
         best_model = rf_model  # Choose Random Forest arbitrarily in case of a tie
 
     # Save the overall best model
-    joblib.dump(best_model, 'best_model.pkl')
-    print("\nBest model saved as 'best_model.pkl'")
+    joblib.dump(best_model, 'best_model.joblib')
+    print("\nBest model saved as 'best_model.joblib'")

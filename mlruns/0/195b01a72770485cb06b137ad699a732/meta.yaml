@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/195b01a72770485cb06b137ad699a732/artifacts
+end_time: 1736836820277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 195b01a72770485cb06b137ad699a732
+run_name: powerful-moose-307
+run_uuid: 195b01a72770485cb06b137ad699a732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836818519
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/88c32b1bcf184741a15a7f1374601525/artifacts
+end_time: 1736836786549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88c32b1bcf184741a15a7f1374601525
+run_name: welcoming-goat-761
+run_uuid: 88c32b1bcf184741a15a7f1374601525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836784756
+status: 3
+tags: []
+user_id: shafins

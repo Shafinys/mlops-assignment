@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/2b5001b889f94953aad68f57955924b7/artifacts
+end_time: 1736836797607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b5001b889f94953aad68f57955924b7
+run_name: powerful-toad-574
+run_uuid: 2b5001b889f94953aad68f57955924b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836795785
+status: 3
+tags: []
+user_id: shafins

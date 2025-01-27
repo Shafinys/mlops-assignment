@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/9529785551be4c1ca7adecf6d060c454/artifacts
+end_time: 1736835943378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9529785551be4c1ca7adecf6d060c454
+run_name: loud-doe-100
+run_uuid: 9529785551be4c1ca7adecf6d060c454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835941611
+status: 3
+tags: []
+user_id: shafins

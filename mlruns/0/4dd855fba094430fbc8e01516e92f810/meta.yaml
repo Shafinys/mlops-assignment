@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/4dd855fba094430fbc8e01516e92f810/artifacts
+end_time: 1736835961268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dd855fba094430fbc8e01516e92f810
+run_name: smiling-kit-10
+run_uuid: 4dd855fba094430fbc8e01516e92f810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835959424
+status: 3
+tags: []
+user_id: shafins

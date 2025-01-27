@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/9e2707e485244ef5a4e20d3078fdf17f/artifacts
+end_time: 1736835911181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e2707e485244ef5a4e20d3078fdf17f
+run_name: classy-hound-207
+run_uuid: 9e2707e485244ef5a4e20d3078fdf17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835909296
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/7dc543bbcaf04857b9a6e6c9777e4745/artifacts
+end_time: 1736835901829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dc543bbcaf04857b9a6e6c9777e4745
+run_name: trusting-ray-99
+run_uuid: 7dc543bbcaf04857b9a6e6c9777e4745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835899868
+status: 3
+tags: []
+user_id: shafins

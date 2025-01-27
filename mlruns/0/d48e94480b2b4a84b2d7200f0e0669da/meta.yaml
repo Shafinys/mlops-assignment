@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/d48e94480b2b4a84b2d7200f0e0669da/artifacts
+end_time: 1736835899865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d48e94480b2b4a84b2d7200f0e0669da
+run_name: languid-kite-184
+run_uuid: d48e94480b2b4a84b2d7200f0e0669da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835897311
+status: 3
+tags: []
+user_id: shafins

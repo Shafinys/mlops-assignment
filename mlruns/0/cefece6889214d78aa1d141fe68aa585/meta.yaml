@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/cefece6889214d78aa1d141fe68aa585/artifacts
+end_time: 1736836779041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cefece6889214d78aa1d141fe68aa585
+run_name: painted-ant-200
+run_uuid: cefece6889214d78aa1d141fe68aa585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836777169
+status: 3
+tags: []
+user_id: shafins

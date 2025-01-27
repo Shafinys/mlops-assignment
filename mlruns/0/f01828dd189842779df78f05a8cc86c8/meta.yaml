@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/f01828dd189842779df78f05a8cc86c8/artifacts
+end_time: 1736836809407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f01828dd189842779df78f05a8cc86c8
+run_name: worried-panda-936
+run_uuid: f01828dd189842779df78f05a8cc86c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836807554
+status: 3
+tags: []
+user_id: shafins

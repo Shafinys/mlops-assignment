@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/f70ebc3cddf54985a75d96ccb661c062/artifacts
+end_time: 1736836805669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70ebc3cddf54985a75d96ccb661c062
+run_name: rumbling-tern-375
+run_uuid: f70ebc3cddf54985a75d96ccb661c062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836803563
+status: 3
+tags: []
+user_id: shafins

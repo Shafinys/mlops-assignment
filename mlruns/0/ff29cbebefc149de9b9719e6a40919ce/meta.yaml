@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/ff29cbebefc149de9b9719e6a40919ce/artifacts
+end_time: 1736836750473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff29cbebefc149de9b9719e6a40919ce
+run_name: unique-pug-578
+run_uuid: ff29cbebefc149de9b9719e6a40919ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836748530
+status: 3
+tags: []
+user_id: shafins

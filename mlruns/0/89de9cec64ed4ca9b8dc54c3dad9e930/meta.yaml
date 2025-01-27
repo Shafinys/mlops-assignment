@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/89de9cec64ed4ca9b8dc54c3dad9e930/artifacts
+end_time: 1736835975862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89de9cec64ed4ca9b8dc54c3dad9e930
+run_name: Logistic Regression Optimization
+run_uuid: 89de9cec64ed4ca9b8dc54c3dad9e930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835937995
+status: 3
+tags: []
+user_id: shafins

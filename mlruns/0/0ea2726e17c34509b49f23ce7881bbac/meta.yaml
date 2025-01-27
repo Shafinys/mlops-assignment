@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/0ea2726e17c34509b49f23ce7881bbac/artifacts
+end_time: 1736836822107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ea2726e17c34509b49f23ce7881bbac
+run_name: adorable-snake-581
+run_uuid: 0ea2726e17c34509b49f23ce7881bbac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836820280
+status: 3
+tags: []
+user_id: shafins
