@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/dfd34e8ddce844bf9c15f66f74290859/artifacts
+end_time: 1737948248311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfd34e8ddce844bf9c15f66f74290859
+run_name: thundering-doe-65
+run_uuid: dfd34e8ddce844bf9c15f66f74290859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948246526
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/13cf84b591a94f48806c9177dc0f8d73/artifacts
+end_time: 1737948207046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13cf84b591a94f48806c9177dc0f8d73
+run_name: shivering-rat-662
+run_uuid: 13cf84b591a94f48806c9177dc0f8d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948205167
+status: 3
+tags: []
+user_id: shafins

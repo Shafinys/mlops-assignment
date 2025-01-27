@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/2575d216daef4309bc297e47628b009f/artifacts
+end_time: 1737948227837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2575d216daef4309bc297e47628b009f
+run_name: kindly-ram-155
+run_uuid: 2575d216daef4309bc297e47628b009f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948226146
+status: 3
+tags: []
+user_id: shafins

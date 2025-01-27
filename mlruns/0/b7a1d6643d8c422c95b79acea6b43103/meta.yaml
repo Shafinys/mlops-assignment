@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/b7a1d6643d8c422c95b79acea6b43103/artifacts
+end_time: 1737948253379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7a1d6643d8c422c95b79acea6b43103
+run_name: bald-bat-210
+run_uuid: b7a1d6643d8c422c95b79acea6b43103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948251665
+status: 3
+tags: []
+user_id: shafins

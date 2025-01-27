@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/f8d674cb395543e3a13c07009a8bc5d0/artifacts
+end_time: 1737948251663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8d674cb395543e3a13c07009a8bc5d0
+run_name: exultant-lamb-42
+run_uuid: f8d674cb395543e3a13c07009a8bc5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948250027
+status: 3
+tags: []
+user_id: shafins

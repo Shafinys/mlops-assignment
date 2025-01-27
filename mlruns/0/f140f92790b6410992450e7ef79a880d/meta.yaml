@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/f140f92790b6410992450e7ef79a880d/artifacts
+end_time: 1737948195944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f140f92790b6410992450e7ef79a880d
+run_name: secretive-perch-516
+run_uuid: f140f92790b6410992450e7ef79a880d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948194236
+status: 3
+tags: []
+user_id: shafins

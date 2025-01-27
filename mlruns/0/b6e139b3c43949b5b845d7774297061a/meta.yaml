@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/b6e139b3c43949b5b845d7774297061a/artifacts
+end_time: 1737948184922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6e139b3c43949b5b845d7774297061a
+run_name: placid-trout-818
+run_uuid: b6e139b3c43949b5b845d7774297061a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948183051
+status: 3
+tags: []
+user_id: shafins

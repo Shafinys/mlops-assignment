@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/2ce36fbbad914ccf927e43da77fa2260/artifacts
+end_time: 1737948219486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ce36fbbad914ccf927e43da77fa2260
+run_name: auspicious-vole-749
+run_uuid: 2ce36fbbad914ccf927e43da77fa2260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948217796
+status: 3
+tags: []
+user_id: shafins

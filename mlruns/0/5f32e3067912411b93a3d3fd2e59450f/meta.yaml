@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/5f32e3067912411b93a3d3fd2e59450f/artifacts
+end_time: 1737948232921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f32e3067912411b93a3d3fd2e59450f
+run_name: sedate-sloth-455
+run_uuid: 5f32e3067912411b93a3d3fd2e59450f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948231220
+status: 3
+tags: []
+user_id: shafins

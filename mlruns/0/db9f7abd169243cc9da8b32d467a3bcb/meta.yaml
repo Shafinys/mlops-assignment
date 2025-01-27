@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/db9f7abd169243cc9da8b32d467a3bcb/artifacts
+end_time: 1737948203391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9f7abd169243cc9da8b32d467a3bcb
+run_name: indecisive-worm-260
+run_uuid: db9f7abd169243cc9da8b32d467a3bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948201598
+status: 3
+tags: []
+user_id: shafins

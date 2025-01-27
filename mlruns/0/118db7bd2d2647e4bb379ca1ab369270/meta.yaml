@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/118db7bd2d2647e4bb379ca1ab369270/artifacts
+end_time: 1737948234552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 118db7bd2d2647e4bb379ca1ab369270
+run_name: suave-mouse-138
+run_uuid: 118db7bd2d2647e4bb379ca1ab369270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948232923
+status: 3
+tags: []
+user_id: shafins

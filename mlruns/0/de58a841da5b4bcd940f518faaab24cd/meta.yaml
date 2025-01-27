@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/de58a841da5b4bcd940f518faaab24cd/artifacts
+end_time: 1737948221220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de58a841da5b4bcd940f518faaab24cd
+run_name: adventurous-mink-767
+run_uuid: de58a841da5b4bcd940f518faaab24cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948219488
+status: 3
+tags: []
+user_id: shafins

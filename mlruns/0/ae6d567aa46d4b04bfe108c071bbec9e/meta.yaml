@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/ae6d567aa46d4b04bfe108c071bbec9e/artifacts
+end_time: 1737948194233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae6d567aa46d4b04bfe108c071bbec9e
+run_name: auspicious-mare-215
+run_uuid: ae6d567aa46d4b04bfe108c071bbec9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948192397
+status: 3
+tags: []
+user_id: shafins

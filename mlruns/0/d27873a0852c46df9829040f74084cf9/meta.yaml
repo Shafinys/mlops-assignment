@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/d27873a0852c46df9829040f74084cf9/artifacts
+end_time: 1737948231217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d27873a0852c46df9829040f74084cf9
+run_name: hilarious-cow-111
+run_uuid: d27873a0852c46df9829040f74084cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948229522
+status: 3
+tags: []
+user_id: shafins

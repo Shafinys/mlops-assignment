@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/4f6399841c6b41deb607b9ec2cc33677/artifacts
+end_time: 1737948212435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6399841c6b41deb607b9ec2cc33677
+run_name: upbeat-dog-539
+run_uuid: 4f6399841c6b41deb607b9ec2cc33677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948210631
+status: 3
+tags: []
+user_id: shafins

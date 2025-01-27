@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/74805700260442be8b420c87671d4b63/artifacts
+end_time: 1737948238045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74805700260442be8b420c87671d4b63
+run_name: likeable-colt-140
+run_uuid: 74805700260442be8b420c87671d4b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948236295
+status: 3
+tags: []
+user_id: shafins

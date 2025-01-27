@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/a66ec391e19048f7b35c406230c8acc0/artifacts
+end_time: 1737948181161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66ec391e19048f7b35c406230c8acc0
+run_name: fun-quail-227
+run_uuid: a66ec391e19048f7b35c406230c8acc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737948178322
+status: 3
+tags: []
+user_id: shafins
