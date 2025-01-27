@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/ee58188842b94fd393c58dc4ea19d059/artifacts
+end_time: 1736836788306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee58188842b94fd393c58dc4ea19d059
+run_name: gaudy-deer-579
+run_uuid: ee58188842b94fd393c58dc4ea19d059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836786552
+status: 3
+tags: []
+user_id: shafins

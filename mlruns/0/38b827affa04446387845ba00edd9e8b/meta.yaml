@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/38b827affa04446387845ba00edd9e8b/artifacts
+end_time: 1736835937994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38b827affa04446387845ba00edd9e8b
+run_name: Random Forest Optimization
+run_uuid: 38b827affa04446387845ba00edd9e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835897301
+status: 3
+tags: []
+user_id: shafins

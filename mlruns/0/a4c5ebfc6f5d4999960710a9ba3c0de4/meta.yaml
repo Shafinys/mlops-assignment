@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/a4c5ebfc6f5d4999960710a9ba3c0de4/artifacts
+end_time: 1736836781028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4c5ebfc6f5d4999960710a9ba3c0de4
+run_name: serious-snake-852
+run_uuid: a4c5ebfc6f5d4999960710a9ba3c0de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836779052
+status: 3
+tags: []
+user_id: shafins

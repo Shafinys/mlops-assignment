@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/6f3cd9160a7f466099e2006ff17e44e9/artifacts
+end_time: 1736835922742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f3cd9160a7f466099e2006ff17e44e9
+run_name: overjoyed-vole-380
+run_uuid: 6f3cd9160a7f466099e2006ff17e44e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835920784
+status: 3
+tags: []
+user_id: shafins

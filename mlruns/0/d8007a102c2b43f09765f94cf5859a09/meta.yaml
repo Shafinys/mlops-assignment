@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/d8007a102c2b43f09765f94cf5859a09/artifacts
+end_time: 1736835950537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8007a102c2b43f09765f94cf5859a09
+run_name: bold-shrike-635
+run_uuid: d8007a102c2b43f09765f94cf5859a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835948797
+status: 3
+tags: []
+user_id: shafins

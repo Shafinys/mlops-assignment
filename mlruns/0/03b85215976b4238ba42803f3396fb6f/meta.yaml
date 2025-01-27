@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/03b85215976b4238ba42803f3396fb6f/artifacts
+end_time: 1736835909293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03b85215976b4238ba42803f3396fb6f
+run_name: rebellious-fawn-661
+run_uuid: 03b85215976b4238ba42803f3396fb6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835907485
+status: 3
+tags: []
+user_id: shafins

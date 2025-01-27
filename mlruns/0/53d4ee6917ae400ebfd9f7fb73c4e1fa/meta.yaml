@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/53d4ee6917ae400ebfd9f7fb73c4e1fa/artifacts
+end_time: 1736835970103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53d4ee6917ae400ebfd9f7fb73c4e1fa
+run_name: rebellious-robin-487
+run_uuid: 53d4ee6917ae400ebfd9f7fb73c4e1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835968334
+status: 3
+tags: []
+user_id: shafins

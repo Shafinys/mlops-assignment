@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/88de2a511eb247c085ef8bb48c39191b/artifacts
+end_time: 1736835945176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88de2a511eb247c085ef8bb48c39191b
+run_name: agreeable-eel-890
+run_uuid: 88de2a511eb247c085ef8bb48c39191b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835943380
+status: 3
+tags: []
+user_id: shafins

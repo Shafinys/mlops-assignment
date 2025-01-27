@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/1a493395a7094bff9b9c46411c642581/artifacts
+end_time: 1736836765825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a493395a7094bff9b9c46411c642581
+run_name: vaunted-flea-743
+run_uuid: 1a493395a7094bff9b9c46411c642581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836763785
+status: 3
+tags: []
+user_id: shafins

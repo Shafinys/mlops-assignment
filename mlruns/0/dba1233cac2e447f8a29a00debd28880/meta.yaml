@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/dba1233cac2e447f8a29a00debd28880/artifacts
+end_time: 1736836769701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dba1233cac2e447f8a29a00debd28880
+run_name: tasteful-moth-404
+run_uuid: dba1233cac2e447f8a29a00debd28880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836767827
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/f7624eeaf1cb4790b7f56555c05ab8e1/artifacts
+end_time: 1736836799487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7624eeaf1cb4790b7f56555c05ab8e1
+run_name: inquisitive-ape-889
+run_uuid: f7624eeaf1cb4790b7f56555c05ab8e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836797609
+status: 3
+tags: []
+user_id: shafins

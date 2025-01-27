@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/d0f9f71890c247af863b971af6cd1eaf/artifacts
+end_time: 1736835957654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0f9f71890c247af863b971af6cd1eaf
+run_name: receptive-cub-90
+run_uuid: d0f9f71890c247af863b971af6cd1eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835955893
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/3a0c7ba601a348f19471eb96ad7541fc/artifacts
+end_time: 1736835955888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a0c7ba601a348f19471eb96ad7541fc
+run_name: efficient-trout-202
+run_uuid: 3a0c7ba601a348f19471eb96ad7541fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835954141
+status: 3
+tags: []
+user_id: shafins

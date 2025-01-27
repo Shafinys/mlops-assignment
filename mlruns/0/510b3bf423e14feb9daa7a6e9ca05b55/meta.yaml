@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/510b3bf423e14feb9daa7a6e9ca05b55/artifacts
+end_time: 1736834672994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510b3bf423e14feb9daa7a6e9ca05b55
+run_name: fearless-finch-96
+run_uuid: 510b3bf423e14feb9daa7a6e9ca05b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736834670908
+status: 3
+tags: []
+user_id: shafins

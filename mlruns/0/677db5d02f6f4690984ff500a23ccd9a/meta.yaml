@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/677db5d02f6f4690984ff500a23ccd9a/artifacts
+end_time: 1736836816684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 677db5d02f6f4690984ff500a23ccd9a
+run_name: unleashed-swan-227
+run_uuid: 677db5d02f6f4690984ff500a23ccd9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836814879
+status: 3
+tags: []
+user_id: shafins

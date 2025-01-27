@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/b34e0056c4db40f1a71c98911391cce5/artifacts
+end_time: 1736835966520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b34e0056c4db40f1a71c98911391cce5
+run_name: capricious-gnu-848
+run_uuid: b34e0056c4db40f1a71c98911391cce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835964826
+status: 3
+tags: []
+user_id: shafins

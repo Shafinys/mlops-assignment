@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/caacb7cc9ecd41138c1cd3da10d5e6b0/artifacts
+end_time: 1736834649347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caacb7cc9ecd41138c1cd3da10d5e6b0
+run_name: enchanting-snake-902
+run_uuid: caacb7cc9ecd41138c1cd3da10d5e6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736834647463
+status: 3
+tags: []
+user_id: shafins

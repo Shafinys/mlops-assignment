@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/5d52c666ab0541189b01f4799bf9af58/artifacts
+end_time: 1736835932263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d52c666ab0541189b01f4799bf9af58
+run_name: skillful-grub-753
+run_uuid: 5d52c666ab0541189b01f4799bf9af58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835930333
+status: 3
+tags: []
+user_id: shafins

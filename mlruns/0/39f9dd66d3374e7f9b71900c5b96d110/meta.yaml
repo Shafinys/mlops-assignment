@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/39f9dd66d3374e7f9b71900c5b96d110/artifacts
+end_time: 1736835905585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39f9dd66d3374e7f9b71900c5b96d110
+run_name: clean-loon-598
+run_uuid: 39f9dd66d3374e7f9b71900c5b96d110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835903737
+status: 3
+tags: []
+user_id: shafins

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shafins/Documents/Learning/M.Tech%20AI%20and%20ML/Sem%203/MLOps/Assignment%201/mlops-assignment/mlruns/0/9f358df116764043ae0ea505173eecd1/artifacts
+end_time: 1736835948794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f358df116764043ae0ea505173eecd1
+run_name: gentle-toad-591
+run_uuid: 9f358df116764043ae0ea505173eecd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835946916
+status: 3
+tags: []
+user_id: shafins
